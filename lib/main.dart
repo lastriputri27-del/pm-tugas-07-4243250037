@@ -55,6 +55,7 @@ class PlannerApp extends StatelessWidget {
         useMaterial3: true,
       ),
       routerConfig: _router,
+      debugShowCheckedModeBanner: false,
     );
   }
 }
